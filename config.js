@@ -10,7 +10,7 @@ const config = {
     Liam: "shadowkiller1988",
     Jerry: "040909",
     Dustin: "iluvbigblackoilymen",
-    Myles: "Randombigblackguy",\
+    Myles: "Randombigblackguy",
     Ryan: "Hentai4lyfe",
   },
 };
