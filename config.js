@@ -13,6 +13,7 @@ const config = {
     Myles: "Randombigblackguy",
     Ryan: "Hentai4lyfe",
     Nicolas: "IdkaPassword1!",
+    Gray: "PPsucker69!",
   },
 };
 
